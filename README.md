@@ -1,8 +1,7 @@
-# InterviewChallenge
 
-## UK Postcode formatting and Validation
+# UK Postcode formatting and Validation
 
-### File Structure
+## File Structure
     Exercise2-postcodeUK
       ---Database
           Contains all the UK postcode which we will be using for validation
