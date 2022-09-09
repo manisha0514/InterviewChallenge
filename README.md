@@ -7,6 +7,9 @@
         python3.6
         Pandas
         
+    Exercise1
+        Run ## python Exercise1.py
+        
     Exercise2-postcodeUK
       ---Database
           Contains all the UK postcode which we will be using for validation
