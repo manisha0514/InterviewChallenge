@@ -37,7 +37,10 @@ class PostCode:
             return False
 
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> 3304a604cb2f09020bafa5def0d86b70f6ac3975
 
 
 
