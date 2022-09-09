@@ -1,3 +1,4 @@
+import sys
 from PostCodeUK.postcode import PostCode
 
 if __name__ == '__main__':
