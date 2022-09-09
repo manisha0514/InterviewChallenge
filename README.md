@@ -1,6 +1,12 @@
 
 # UK Postcode formatting and Validation
 # File Structure
+
+    Required for running library
+        PyCharmIDE
+        python3.6
+        Pandas
+        
     Exercise2-postcodeUK
       ---Database
           Contains all the UK postcode which we will be using for validation
