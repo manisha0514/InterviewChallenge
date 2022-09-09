@@ -11,7 +11,11 @@
       ---Database
           Contains all the UK postcode which we will be using for validation
       ---PostCodeUK
-          ---TestResults
+         python code for formatting and validating postcode
+          
+      ---tests
+          Contains unittest python file and testcases
+           ---TestResults
               stores the results from testing formatting and validation module
               
               Format : test-formating.csv(regex validation)
@@ -34,9 +38,6 @@
               A1 1AA     
               ### add your test codes here
               Run ## postcode_test.py file in pycharm environment to get the test results
-          
-      ---tests
-          Contains unittest python file and testcases
           
       ---UK-postcode-lib
           library for validating the postcode
