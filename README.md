@@ -2,8 +2,9 @@
 # UK Postcode formatting and Validation
 # File Structure
 
-    Required for running library
+    Requirements for running library
         PyCharmIDE
+        Anaconda 
         python3.6
         Pandas
         
