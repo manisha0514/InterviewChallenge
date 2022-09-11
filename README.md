@@ -6,7 +6,7 @@
         PyCharmIDE
         Anaconda 
         python3.6
-        Pandas
+        Pandas(run ## pip install pandas ## to use pandas library 
         
     Exercise1
         Run ## python Exercise1.py
